@@ -1,3 +1,13 @@
+## ADAPTED FOR USE WITH ROS2 & RSHELIOS_16P
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
 # 1 **rslidar_sdk**
 
  [中文介绍](README_CN.md) 
